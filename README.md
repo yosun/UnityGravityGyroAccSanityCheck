@@ -1,4 +1,6 @@
 # UnityGravityGyroAccSanityCheck
+
+Note: lock screen orientation to portrait for gravity value to be correct relative to device
 If you ever wondered what Unity's left handed coordinate system does to gravity, gyroscope values, accelerometer, screen orientation etc on mobile
 
 <a href="https://gyazo.com/7062ceae29dd3e191e01de5f07b9b741"><img src="https://i.gyazo.com/7062ceae29dd3e191e01de5f07b9b741.png" alt="Image from Gyazo" width="220"/></a>
